@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**SmeraldaKa0s/SmeraldaKa0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Alekxandra 👾—a junior react developer, electronic arts student, and librarian.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+export default () => ({
+  pronouns: "They" | "Them",
+  askMeAbout: [
+    "webdev", "tech", "music",
+    "plants", "swimming", "books"
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["react", "next"],
+      css: ["sass", "tailwind", "material ui", "bulma", "bootstrap"]
+    },
+    backEnd: {
+      js: ["node"],
+    },
+  },
+});
+```
+
+#### Get in touch 
+
+
+Web: https://alx.ar/
+
+Linkedin: https://www.linkedin.com/in/alx-l/
+
+
+#### My streak stats
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SmeraldaKa0s&theme=omni&hide_border=falso)](https://git.io/streak-stats)
+
