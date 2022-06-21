@@ -1,6 +1,6 @@
 
 
-**Hi, I'm Alekxandra 👾—a junior react developer, electronic arts student, and librarian.**
+**Hi, I'm Alekxandra 👾—a junior react developer, electronic arts student and librarian.**
 
 ```js
 export default () => ({
