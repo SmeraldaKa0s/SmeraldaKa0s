@@ -4,7 +4,7 @@
 
 ```js
 export default () => ({
-  pronouns: "They" | "Them",
+  pronouns: "They" | "Them" | "She" | "He", 
   askMeAbout: [
     "webdev", "tech", "music",
     "plants", "swimming", "books"
