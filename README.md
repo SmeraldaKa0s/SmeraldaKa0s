@@ -10,6 +10,9 @@ export default () => ({
     "plants", "swimming", "books"
   ],
   technologies: {
+  QA: {
+      test: ["excel", "trello", "postman", "docker"]
+    },
     frontEnd: {
       js: ["react", "next"],
       css: ["sass", "tailwind", "material ui", "bulma", "bootstrap"]
