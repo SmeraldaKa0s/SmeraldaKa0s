@@ -2,27 +2,6 @@
 
 **Hi, I'm Alekxandra 👾—a junior react developer, electronic arts student and librarian.**
 
-```js
-export default () => ({
-  pronouns: "They" | "She" | "He", 
-  askMeAbout: [
-    "webdev", "tech", "music",
-    "plants", "swimming", "books"
-  ],
-  technologies: {
-    QA: {
-      test: ["excel", "trello", "postman", "docker"]
-    },
-    frontEnd: {
-      js: ["react", "next"],
-      css: ["sass", "tailwind", "material ui", "bulma", "bootstrap"]
-    },
-    backEnd: {
-      js: ["node"],
-    },
-  },
-});
-```
 
 #### Get in touch 
 
