@@ -5,7 +5,4 @@
 
 #### Get in touch 
 
-
-Web: https://alx.ar/
-
 Linkedin: https://www.linkedin.com/in/alx-l/
